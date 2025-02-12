@@ -4,3 +4,6 @@ This project is an AI-driven Urdu poetry generator that utilizes an LSTM-based d
 
 ![image](https://github.com/user-attachments/assets/df376c7a-363e-42e5-a281-bc9a50182953)
 ![_- visual selection](https://github.com/user-attachments/assets/a7744608-e8f8-4799-ba3d-1182b808d4b1)
+
+
+Check it out at: https://ai-powered-urdu-poetry-generator-g8ij9kjgdqmnbc4ttzpaze.streamlit.app/
